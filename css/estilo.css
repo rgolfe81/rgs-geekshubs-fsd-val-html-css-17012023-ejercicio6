@@ -1,5 +1,27 @@
 body{
     font-family: 'Lucida Sans Unicode';
+    margin: 0;
+
+}
+header{
+    width: 100vw;
+    height: 30vh;
+}
+section{
+    float: right;
+    width: 80vw;
+    height: 50vh;
+    border: solid black 1px;
+    padding: 1em;
+
+}
+aside{
+    float: left;
+    width: 15vw;
+    height: 50vh;
+
+}
+header{
 }
 h1{
     letter-spacing: 0.3em;
